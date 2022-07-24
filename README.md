@@ -1,7 +1,7 @@
 # KinokoPlugin
 単なる自作TestPlugin-きのこ要素はない
 
-# コマンド
+## コマンド
 `/test`:テスト
 
 `/asa`:朝にする(OP)
