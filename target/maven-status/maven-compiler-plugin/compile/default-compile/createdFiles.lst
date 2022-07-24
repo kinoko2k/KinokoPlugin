@@ -1,0 +1,6 @@
+com\kinoko\testplugin\command\test.class
+com\kinoko\testplugin\listener\blocklog.class
+com\kinoko\testplugin\listener\playerlog.class
+com\kinoko\testplugin\Testplugin.class
+com\kinoko\testplugin\menu\Item.class
+com\kinoko\testplugin\command\asa.class
